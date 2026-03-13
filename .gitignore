@@ -27,7 +27,7 @@ build/
 *.lib
 *.exp
 *.dll
-*.exe
+
 
 # Logs/temp
 *.log
@@ -45,7 +45,4 @@ compile_commands.json
 # NuGet / packages if not needed in repo
 packages/
 
-# Eigen
-Eigen/
 
-*.txt
